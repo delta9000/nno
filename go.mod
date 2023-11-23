@@ -1,4 +1,4 @@
-module nno
+module github.com/delta9000/nno
 
 go 1.21.4
 
